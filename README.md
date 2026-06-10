@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**SumanPokhrel93/SumanPokhrel93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Suman Pokhrel
 
 MSc Data Analytics Graduate with a background in Accounting & Finance.
