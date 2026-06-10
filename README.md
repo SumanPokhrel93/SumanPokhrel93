@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
 **SumanPokhrel93/SumanPokhrel93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Suman Pokhrel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MSc Data Analytics Graduate with a background in Accounting & Finance.
+
+## Skills
+- SQL
+- Python
+- Tableau
+- Excel
+- Data Analysis
+- Data Visualisation
+
+## Featured Projects
+- E-Commerce Sales Analysis
+- Financial Performance Dashboard
+- Netflix Content Analysis
+
+## Currently Learning
+- PostgreSQL
+- Advanced SQL
+- Business Analytics
+
+## Connect With Me
+- GitHub: [Profile](github.com/SumanPokhrel93)
