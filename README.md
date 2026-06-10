@@ -15,7 +15,8 @@ MSc Data Analytics Graduate with a background in Accounting & Finance.
 - E-Commerce Sales Analysis
 - Financial Performance Dashboard
 - Netflix Content Analysis
-
+- Academic Project: Loan Default Prediction using Machine Learning and Explainable AI (SHAP and LIME)
+ 
 ## Currently Learning
 - PostgreSQL
 - Advanced SQL
