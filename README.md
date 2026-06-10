@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# Hi, I'm Suman Pokhrel
+## Hi, I'm Suman Pokhrel
 
 MSc Data Analytics Graduate with a background in Accounting & Finance.
 
