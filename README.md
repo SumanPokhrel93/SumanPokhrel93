@@ -22,8 +22,8 @@ MSc Data Analytics Graduate with a background in Accounting & Finance.
 - PostgreSQL
 - Advanced SQL
 - Business Analytics
-- Python 
-- Excel
+- Python for Data Analysis 
+- Advanced Excel
   
 ## Connect With Me
 - GitHub: [Profile](github.com/SumanPokhrel93)
